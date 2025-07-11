@@ -6,14 +6,15 @@
 Une solution en temps réel pour détecter les obstacles et alerter un utilisateur malvoyant grâce à un modèle YOLOv8, du traitement OpenCV, et un système audio intelligent.
 
 ## 🧠 Fonctionnalités
-- Détection en temps réel (YOLOv8)
-- Estimation de distance + position (gauche/devant/droite)
-- Alerte audio (synthèse vocale)
-- Filtrage des classes non pertinentes (canne blanche simulée)
+- Détection d’objets en temps réel avec YOLOv8.
+- Estimation de la distance avec correction de perspective.
+- Alertes vocales (objet + position : gauche, devant, droite).
+- Annotation visuelle sur la vidéo.
+- Paramètres configurables (distance d’alerte, modèle, vidéo).
 
 ## 🚀 Technologies
-- YOLOv8, OpenCV
-- Python, Gradio (test), Numpy
+- YOLOv8, OpenCV, pyttsx3, Torch
+- Python, Gradio (test non réussi)
 - Amélioration d’image, perspective
 
 ## 🎥 Démo
@@ -23,9 +24,6 @@ https://github.com/abad37/blind-navigation-yolov8/blob/main/Vid%C3%A9o%20sans%20
 
 Le dataset utilisé dans ce projet est disponible ici :  
 👉 [Télécharger sur Google Drive](Le lien arrive rapidement)
-
-Placez les fichiers dans le dossier `data/` pour exécuter les notebooks.
-
 
 ## ▶️ Exécution
 cd notebook/
