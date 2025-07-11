@@ -19,6 +19,14 @@ Une solution en temps réel pour détecter les obstacles et alerter un utilisate
 ## 🎥 Démo
 https://github.com/abad37/blind-navigation-yolov8/blob/main/Vid%C3%A9o%20sans%20titre%20%E2%80%90%20R%C3%A9alis%C3%A9e%20avec%20Clipchamp%20(1).mp4
 
+## 📁 Dataset
+
+Le dataset utilisé dans ce projet est disponible ici :  
+👉 [Télécharger sur Google Drive](Le lien arrive rapidement)
+
+Placez les fichiers dans le dossier `data/` pour exécuter les notebooks.
+
+
 ## ▶️ Exécution
 cd notebook/
 jupyter projet_streetfeel.ipynb
