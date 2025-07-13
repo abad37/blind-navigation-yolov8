@@ -22,8 +22,8 @@ https://github.com/abad37/blind-navigation-yolov8/blob/main/Vid%C3%A9o%20sans%20
 
 ## 📁 Dataset
 
-Le dataset utilisé dans ce projet est disponible ici :  
-👉 [Télécharger sur Google Drive](Le lien arrive rapidement)
+Le dataset utilisé dans ce projet est disponible ici : https://drive.google.com/drive/folders/1rzox4DKvamb9JP5c2PLEhFuJEida-Vdu?usp=drive_link
+👉 [Télécharger sur Google Drive] : 
 
 ## ▶️ Exécution
 cd notebook/
